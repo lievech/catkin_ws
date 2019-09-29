@@ -1,0 +1,8 @@
+prefix=/home/lhn/catkin_ws/src/chapter7_tutorials/install
+
+Name: robot1_description
+Description: Description of robot1_description
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/lhn/catkin_ws/src/chapter7_tutorials/install/lib 
+Requires: 

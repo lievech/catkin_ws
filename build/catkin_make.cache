@@ -1,0 +1,2 @@
+chapter7_tutorials/robot1_description:pkg_name:ros_tutorials/ros_tutorials:ros_tutorials/roscpp_tutorials:ros_tutorials/rospy_tutorials:ros_tutorials/turtlesim
+-DCATKIN_DEVEL_PREFIX=/home/lhn/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/lhn/catkin_ws/install -G Unix Makefiles

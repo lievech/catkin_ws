@@ -1,0 +1,2 @@
+robot1_description
+-DCATKIN_DEVEL_PREFIX=/home/lhn/catkin_ws/src/chapter7_tutorials/devel -DCMAKE_INSTALL_PREFIX=/home/lhn/catkin_ws/src/chapter7_tutorials/install -G Unix Makefiles
